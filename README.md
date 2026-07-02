@@ -1,6 +1,4 @@
 # trialsntribulations
-Absolutely — here’s a clean GitHub README you can copy-paste for this project. It’s based on your notebook’s goal: fine-tuning a small language model for customer-support style replies using LoRA.
-
 Customer Support Chatbot Fine-Tuning
 A lightweight chatbot project that fine-tunes a small instruction-tuned language model to generate concise, polite, customer-support style responses. The notebook supports both training and inference workflows with LoRA-based parameter-efficient fine-tuning.
 
